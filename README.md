@@ -17,17 +17,17 @@ The course curriculum spans a wide range of topics and techniques, including han
 I built this Github repository throughout the semester. Here you will find I sub-repositories which will contain data sets, descriptive README.md files, and Jupyter notebooks illustrating implementations of the algorithms covered in this course. The covered topics include:
 
  **Data Science Foundations**:
-  *Data Collection: Sources, Ethics, and Scrubbing
-  *Data Exploration and Visualization
+    * Data Collection: Sources, Ethics, and Scrubbing
+    * Data Exploration and Visualization
 
  **Supervised Learning**:
-  *Linear Regression
-  *Gradient Descent
-  *Logistic Regression
-  *Neural Nets
-  *k-Nearest Neighbors
-  *Decision/ Regression Trees
+    * Linear Regression
+    * Gradient Descent
+    * Logistic Regression
+    * Neural Nets
+    * K-Nearest Neighbors
+    * Decision/ Regression Trees
 
  **Unsupervised Learning**:
-  *k-Means Clustering
-  *Principle Component Analysis
+    * K-Means Clustering
+    * Principle Component Analysis
