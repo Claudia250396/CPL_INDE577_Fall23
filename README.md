@@ -19,11 +19,11 @@ I built this Github repository throughout the semester. Here you will find I sub
  **Data Science Foundations**:
   * Data Collection: Sources, Ethics, and Scrubbing
   * Data Exploration and Visualization
+  * Statistical Inference and Hypothesis Testing
 
  **Supervised Learning**:
   * Linear Regression
   * Gradient Descent
-  * Logistic Regression
   * Neural Nets
   * K-Nearest Neighbors
   * Decision/ Regression Trees
